@@ -30,16 +30,36 @@ MailSavvy is a Flask-based web application designed to verify email addresses by
 
 ### **Vaild Email**
 
-The tool successfully verifies the email address:  
+The tool successfully verifies the email address:
+
 ![Valid Email](/images/valid.png)
 
 
 ### **Invalid Email**
 The tool detects an invalid or undeliverable email address:
+
 ![Invalid Email](/images/invalid.png)
 
 ### **Error**
 An error occurs during the verification process (e.g., no MX records or server issues):
+
 ![Error](/images/error1.png)
 ![Error](images/error2.png)
+
+
+## **How It Works**
+1. **Input**: Enter an email address in the input field.
+2. **MX Record Check**: The tool queries the DNS for MX records of the domain associated with the entered email.
+3. **SMTP Validation**: Establishes a connection to the domain’s SMTP server to verify the existence of the email address.
+4. **Result**: Displays the outcome as valid, invalid, or error based on the verification process.
+
+---
+
+## Installation Guide
+
+### Prerequisites
+- Python 3.6 or higher
+- Pip (Python Package Manager)
+
+### Steps to Install and Run
 
