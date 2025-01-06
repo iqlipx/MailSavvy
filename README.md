@@ -95,6 +95,11 @@ http://127.0.0.1:5000
 
 ---
 
-Feel free to modify and use the tool for educational purposes or as a starting point for your projects! 🚀
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+> Feel free to modify and use the tool for educational purposes or as a starting point for your projects! 🚀
 
 
