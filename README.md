@@ -70,15 +70,6 @@ An error occurs during the verification process (e.g., no MX records or server i
 git clone https://github.com/iqlipx/MailSavvy.git
 cd MailSavvy
 ```
-
-### Steps to Install and Run
-
-1. Clone the Repository:
-
-```bash
-git clone https://github.com/iqlipx/MailSavvy.git
-cd MailSavvy
-```
 2. Install Dependencies:
 
 ```bash
