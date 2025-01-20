@@ -43,7 +43,6 @@ The tool detects an invalid or undeliverable email address:
 An error occurs during the verification process (e.g., no MX records or server issues):
 
 ![Error](/images/error1.png)
-![Error](images/error2.png)
 
 ---
 
